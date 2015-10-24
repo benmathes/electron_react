@@ -14,3 +14,15 @@ Which makes me very, very sad. All the growth is on controlled, private platform
 May as well learn how to exist in this new world.
 
 Adapted from: https://medium.com/@Agro/developing-desktop-applications-with-electron-and-react-40d117d97564#.seafxiy4c
+
+
+### To Run:
+
+* have latest (or relative new `npm`)
+  * `sudo npm install npm -g` 
+* install node packages:
+  * `npm install`
+* run the scripts that watch and auto-reload the app on js/html/react/etc. file changes
+  * `npm run-script watch`
+* run the main app
+  * `npm start`
